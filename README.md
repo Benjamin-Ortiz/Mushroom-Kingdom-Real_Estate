@@ -1,6 +1,6 @@
-# Flask React Project
+# Mushroom Kingdom Real Esate Project
 
-This is the starter for the Flask React project.
+This is the starter for this Flask React project.
 
 ## Getting started
 1. Clone this repository (only this branch)
